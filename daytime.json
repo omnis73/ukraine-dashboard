@@ -1,0 +1,185 @@
+{
+"note": "Air Force daytime waves (06:30-19:00 Kyiv), by day of the wave. From Workspace GX:HC (row = day + 1); 27-29 Aug and 1 Sep 2026 from Air Force posts 74866, 75065, 75261, 75795 until they are in the Sheet. Superseded by data.json dayWaves once Code.gs DAYWAVES is installed.",
+"waves": [
+{
+"date": "2026-08-27",
+"period": "7:00–19:00",
+"uavs": 140,
+"neutralized": 120,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-08-28",
+"period": "6:30–19:00",
+"uavs": 96,
+"neutralized": 73,
+"hits": null,
+"banderaLaunched": 7,
+"banderaNeutralized": 6
+},
+{
+"date": "2026-08-29",
+"period": "6:30–18:00",
+"uavs": 224,
+"neutralized": 199,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-09-01",
+"period": "6:30–18:00",
+"uavs": 99,
+"neutralized": 82,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-09-12",
+"period": "6:30–18:00",
+"uavs": 410,
+"neutralized": 336,
+"hits": 21,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-09-13",
+"period": "6:30–18:00",
+"uavs": 323,
+"neutralized": 310,
+"hits": 10,
+"banderaLaunched": 10,
+"banderaNeutralized": null
+},
+{
+"date": "2026-09-25",
+"period": "7:00–18:30",
+"uavs": 162,
+"neutralized": 127,
+"hits": 27,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-09-28",
+"period": "6:30–18:30",
+"uavs": 124,
+"neutralized": 86,
+"hits": 26,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-09-29",
+"period": "6:30–18:00",
+"uavs": 112,
+"neutralized": 95,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-09-30",
+"period": "6:30–18:30",
+"uavs": 285,
+"neutralized": 254,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-10-01",
+"period": "6:30–18:00",
+"uavs": 97,
+"neutralized": 78,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-10-15",
+"period": "7:30–18:00",
+"uavs": 138,
+"neutralized": 125,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-10-16",
+"period": "7:00–19:00",
+"uavs": 315,
+"neutralized": 253,
+"hits": null,
+"banderaLaunched": 15,
+"banderaNeutralized": 9
+},
+{
+"date": "2026-10-17",
+"period": "7:30–19:30",
+"uavs": 157,
+"neutralized": 140,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": 6
+},
+{
+"date": "2026-10-31",
+"period": "06:30–19:30",
+"uavs": 168,
+"neutralized": 122,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": 2
+},
+{
+"date": "2026-11-01",
+"period": "06:30–19:00",
+"uavs": 326,
+"neutralized": 274,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": 6
+},
+{
+"date": "2026-11-02",
+"period": "06:30–19:00",
+"uavs": 171,
+"neutralized": 139,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": 8
+},
+{
+"date": "2026-11-03",
+"period": "06:30–19:00",
+"uavs": 81,
+"neutralized": 62,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": null
+},
+{
+"date": "2026-11-10",
+"period": "06:30–19:00",
+"uavs": 155,
+"neutralized": 124,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": 14
+},
+{
+"date": "2026-11-12",
+"period": "06:30–19:00",
+"uavs": 143,
+"neutralized": 124,
+"hits": null,
+"banderaLaunched": null,
+"banderaNeutralized": 2
+}
+]
+}

@@ -1,0 +1,18 @@
+{
+ "items": [
+  {
+   "key": "evening:shellings:2026-11-08",
+   "scope": "evening",
+   "field": "shellings",
+   "date": "2026-11-08",
+   "gsua": 16252,
+   "use": 1625,
+   "src": {
+    "name": "Glavcom",
+    "url": "https://glavcom.ua/country/incidents/127-bojiv-za-dobu-linija-frontu-stanom-na-8-listopada-2026-1154204.html",
+    "name_uk": "Главком",
+    "name_ru": "Главком"
+   }
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "generated": "2026-11-20T14:55Z",
+ "normal": [
+  5.3,
+  5.6
+ ],
+ "normalSrc": "Bloomberg (EA Analytics): same months of 2020-2025 averaged 5.3-5.6 million barrels a day",
+ "normalUrl": "https://www.themoscowtimes.com/2026/08/03/russian-oil-refining-falls-to-24-year-low-after-ukrainian-drone-strikes-bloomberg-a93404",
+ "hitsTo": "2026-11-18",
+ "lastYear": {
+  "v": 5.2,
+  "label": "2025 average (Jan-Oct)",
+  "src": "Reuters industry sources: about 220 million tonnes in Jan-Oct 2025, 5.2 million barrels a day, down 3% on the year",
+  "url": "https://ukranews.com/en/news/1117087-oil-refining-in-russia-decreases-by-only-3-despite-ukraine-s-strikes-russians-using-reserve"
+ },
+ "lastYearMonths": [],
+ "runs": [
+  {
+   "m": "2026-03",
+   "d": "2026-03-31",
+   "v": 5.2,
+   "kind": "snapshot",
+   "src": "Carnegie Endowment",
+   "pub": "2026-06",
+   "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/06/russia-new-refinery-strike",
+   "note": "End of March, before the spring strikes"
+  },
+  {
+   "m": "2026-04",
+   "d": null,
+   "v": 4.69,
+   "kind": "month",
+   "src": "OilX via Bloomberg",
+   "pub": "2026-05-28",
+   "url": "https://euromaidanpress.com/2026/05/28/russia-rosstat-refining-drone-strikes/",
+   "note": "Lowest since December 2009"
+  },
+  {
+   "m": "2026-06",
+   "d": null,
+   "v": 3.8,
+   "kind": "month",
+   "src": "IEA",
+   "pub": "2026-07",
+   "url": "https://www.iea.org/commentaries/russian-refining-sector-struggles-amid-intensifying-ukrainian-attacks",
+   "note": "Lowest in more than 20 years"
+  },
+  {
+   "m": "2026-07",
+   "d": null,
+   "v": 3.6,
+   "kind": "month",
+   "src": "EA Analytics via Bloomberg",
+   "pub": "2026-08-03",
+   "url": "https://www.themoscowtimes.com/2026/08/03/russian-oil-refining-falls-to-24-year-low-after-ukrainian-drone-strikes-bloomberg-a93404",
+   "note": "Lowest since May 2002"
+  },
+  {
+   "m": "2026-09",
+   "d": null,
+   "v": 3.6,
+   "kind": "month",
+   "src": "Bloomberg",
+   "pub": "2026-10-07",
+   "url": "https://isans.org/energy-sector/russian-energy-sector-in-september-2026.html",
+   "note": "Record low (Bloomberg); OPEC puts Q3 at 3.91"
+  },
+  {
+   "m": "2026-10",
+   "d": "2026-10-31",
+   "v": 5.13,
+   "kind": "snapshot",
+   "src": "Reuters industry sources",
+   "pub": "2026-11-18",
+   "url": "https://www.yahoo.com/news/articles/exclusive-drone-attacks-nearly-halve-145826294.html",
+   "note": "Over 700,000 tonnes a day at end of October (x 7.33 barrels per tonne)"
+  },
+  {
+   "m": "2026-11",
+   "d": null,
+   "v": 3.67,
+   "kind": "month-to-date",
+   "src": "Reuters industry sources",
+   "pub": "2026-11-18",
+   "url": "https://www.yahoo.com/news/articles/exclusive-drone-attacks-nearly-halve-145826294.html",
+   "note": "November average so far above 500,000 tonnes a day (x 7.33 barrels per tonne)"
+  },
+  {
+   "m": "2026-11",
+   "d": "2026-11-18",
+   "v": 3.0,
+   "kind": "snapshot",
+   "src": "Reuters industry sources",
+   "pub": "2026-11-18",
+   "url": "https://www.yahoo.com/news/articles/exclusive-drone-attacks-nearly-halve-145826294.html",
+   "note": "About 400,000 tonnes a day, an estimate of operating capacity, not verified throughput"
+  }
+ ],
+ "hits": [
+  {
+   "m": "2026-01",
+   "n": 2
+  },
+  {
+   "m": "2026-02",
+   "n": 3
+  },
+  {
+   "m": "2026-03",
+   "n": 5
+  },
+  {
+   "m": "2026-04",
+   "n": 11
+  },
+  {
+   "m": "2026-05",
+   "n": 11
+  },
+  {
+   "m": "2026-06",
+   "n": 10
+  },
+  {
+   "m": "2026-07",
+   "n": 15
+  },
+  {
+   "m": "2026-08",
+   "n": 16
+  },
+  {
+   "m": "2026-09",
+   "n": 13
+  },
+  {
+   "m": "2026-10",
+   "n": 4
+  },
+  {
+   "m": "2026-11",
+   "n": 12
+  }
+ ]
+}
